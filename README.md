@@ -5,15 +5,30 @@ Each project focuses on a specific concept — variables, DOM manipulation, even
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demos
 
-[▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/5-cart-quantity.html)
+| Project | Live Link |
+|---|---|
+| Cart Quantity | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/cart-quantity.html) |
+| Rock Paper Scissors | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/rock-paper-scissors.html) |
+| DOM Projects | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/dom-projects.html) |
+| Todo List | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/todo-list.html) |
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![JavaScript Mini Projects](screenshot.png)
+### 🛒 Cart Quantity
+![Cart Quantity](screenshots/cart-quantity.png)
+
+### ✂️ Rock Paper Scissors
+![Rock Paper Scissors](screenshots/rock-paper-scissors.png)
+
+### 📺 DOM Projects
+![DOM Projects](screenshots/dom-projects.png)
+
+### ✅ Todo List
+![Todo List](screenshots/todo-list.png)
 
 ---
 
@@ -34,10 +49,16 @@ Each project focuses on a specific concept — variables, DOM manipulation, even
 ```
 javascript-mini-projects/
 │
-├── 5-cart-quantity.html                        # Cart counter using variables
-├── 6__7__8__9__10__12-rock-paper-scissors.html # Full RPS game with score saving
-├── 9__10-dom-projects.html                     # Subscribe button + shipping calculator
-├── 11__12-todo-list.html                       # Todo list with due dates
+├── cart-quantity.html                        # Cart counter using variables
+├── rock-paper-scissors.html # Full RPS game with score saving
+├── dom-projects.html                     # Subscribe button + shipping calculator
+├── todo-list.html                       # Todo list with due dates
+│
+├── screenshots/                                # Screenshots of each project
+│   ├── cart-quantity.png
+│   ├── rock-paper-scissors.png
+│   ├── dom-projects.png
+│   └── todo-list.png
 │
 ├── styles/
 │   ├── rock-paper-scissors.css
@@ -47,10 +68,14 @@ javascript-mini-projects/
 │   ├── rock-paper-scissors.js
 │   └── todo-list.js
 │
-└── images/
-    ├── Rock-emoji.png
-    ├── Paper-emoji.png
-    └── Scissors-emoji.png
+├── images/
+│   ├── Rock-emoji.png
+│   ├── Paper-emoji.png
+│   └── Scissors-emoji.png
+│
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -75,6 +100,13 @@ javascript-mini-projects/
 - Handling keyboard events with `onkeydown` and `event.key`
 - Saving data with `localStorage` so it persists after page refresh
 - Auto-repeating logic with `setInterval`
+
+---
+
+## 🙈 .gitignore
+
+This project uses a `.gitignore` file to avoid pushing unnecessary files to GitHub.  
+It ignores OS files (`.DS_Store`, `Thumbs.db`), editor files (`.vscode/`, `.idea/`), and Node.js files (`node_modules/`).
 
 ---
 
