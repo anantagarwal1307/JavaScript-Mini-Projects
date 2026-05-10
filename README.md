@@ -9,10 +9,10 @@ Each project focuses on a specific concept — variables, DOM manipulation, even
 
 | Project | Live Link |
 |---|---|
-| Cart Quantity | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/cart-quantity.html) |
-| Rock Paper Scissors | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/rock-paper-scissors.html) |
-| DOM Projects | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/dom-projects.html) |
-| Todo List | [▶ View Live](https://anantagarwal1307.github.io/javascript-mini-projects/todo-list.html) |
+| Cart Quantity | [▶ View Live](https://anantagarwal1307.github.io/JavaScript-Mini-Projects/cart-quantity.html) |
+| Rock Paper Scissors | [▶ View Live](https://anantagarwal1307.github.io/JavaScript-Mini-Projects/rock-paper-scissors.html) |
+| DOM Projects | [▶ View Live](https://anantagarwal1307.github.io/JavaScript-Mini-Projects/dom-projects.html) |
+| Todo List | [▶ View Live](https://anantagarwal1307.github.io/JavaScript-Mini-Projects/todo-list.html) |
 
 ---
 
@@ -47,14 +47,14 @@ Each project focuses on a specific concept — variables, DOM manipulation, even
 ## 📁 Project Structure
 
 ```
-javascript-mini-projects/
+JavaScript-Mini-Projects/
 │
-├── cart-quantity.html                        # Cart counter using variables
-├── rock-paper-scissors.html # Full RPS game with score saving
-├── dom-projects.html                     # Subscribe button + shipping calculator
-├── todo-list.html                       # Todo list with due dates
+├── cart-quantity.html          # Cart counter using variables
+├── rock-paper-scissors.html    # Full RPS game with score saving
+├── dom-projects.html           # Subscribe button + shipping calculator
+├── todo-list.html              # Todo list with due dates
 │
-├── screenshots/                                # Screenshots of each project
+├── screenshots/                # Screenshots of each project
 │   ├── cart-quantity.png
 │   ├── rock-paper-scissors.png
 │   ├── dom-projects.png
@@ -84,10 +84,10 @@ javascript-mini-projects/
 
 | Project | Concepts Covered | File |
 |---|---|---|
-| Cart Quantity | Variables, `let`, template literals, onclick | `5-cart-quantity.html` |
-| Rock Paper Scissors | Functions, objects, `localStorage`, `setInterval` | `6__7__8__9__10__12-rock-paper-scissors.html` |
-| DOM Projects | `querySelector`, `classList`, `innerHTML`, keyboard events | `9__10-dom-projects.html` |
-| Todo List | Dynamic DOM rendering, date input, external JS | `11__12-todo-list.html` |
+| Cart Quantity | Variables, `let`, template literals, onclick | `cart-quantity.html` |
+| Rock Paper Scissors | Functions, objects, `localStorage`, `setInterval` | `rock-paper-scissors.html` |
+| DOM Projects | `querySelector`, `classList`, `innerHTML`, keyboard events | `dom-projects.html` |
+| Todo List | Dynamic DOM rendering, date input, external JS | `todo-list.html` |
 
 ---
 
